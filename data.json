@@ -1,0 +1,22 @@
+{
+   "users": {
+      "136817688": {
+         "user_name": "Channel_Bot",
+         "name": "Channel",
+         "is_bot": true,
+         "safe_counter": 4
+      },
+      "6237899118": {
+         "user_name": "VIP_QK",
+         "name": "\u0e3f\u0102\u0110 \u0e3f\u01fe\u03a8",
+         "is_bot": false,
+         "safe_counter": 4
+      },
+      "1087968824": {
+         "user_name": "GroupAnonymousBot",
+         "name": "Group",
+         "is_bot": true,
+         "safe_counter": 4
+      }
+   }
+}
